@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1446857324 source:c:\programming\codeblocks\crazy language\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
